@@ -1,4 +1,4 @@
-# : What is Nutshell?
+# : What is happening?
 
 <iframe width="750" height="300" src="indexpage/splash.html" data-splash="yes"></iframe>
 
