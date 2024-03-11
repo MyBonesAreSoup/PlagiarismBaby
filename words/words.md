@@ -87,7 +87,7 @@ But seriously, thank you to everyone above. I appreciate y'all.
 
 <img src="indexpage/sprites/recursion.gif" data-float="left" width="200"/>
 
-**Recursion** is when something contains a copy of itself. It's often used in math and programming, to get infinite potential out of finite stuff.
+**Recursion** is when something <em>shits out</em> a copy of itself. It's often used in math and programming, to get infinite potential out of finite stuff.
 
 See also [:recursion](#recursion).
 
